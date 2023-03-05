@@ -2,7 +2,7 @@
 int main(){
 	time_t seconds;
 int num,i=0;
-//	for(int i=0;i<9;i++){
+
  srand(time(NULL));
 for(;;)
 {sleep(1);
